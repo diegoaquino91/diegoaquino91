@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Playwright , Typescript, AWS**
+ 🌱 I’m currently learning **Go , Jenkins**
 
  </div>
 
